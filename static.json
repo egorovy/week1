@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "vegorov" 
+      "X-Author": "vegorov",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
